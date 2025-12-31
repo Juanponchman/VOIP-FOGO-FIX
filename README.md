@@ -6,7 +6,7 @@ Fixes call audio issues on Moto G 5G 2024 running crDroid/LineageOS:
 **Problems Fixed:**
 • Callers not hearing you, or if they do its BLASTING at max volume with an echo (no volume control)
 • Volume doesn't work during calls
-
+p
 **What it does:**
 • Enables Motorola USF audio processing (vendor.audio.feature.voip.vendor.enable=true)
 • Adds missing voip_rx audio policy routing
@@ -20,6 +20,4 @@ Fixes call audio issues on Moto G 5G 2024 running crDroid/LineageOS:
 **Tested on:** Moto G 5G 2024 (fogo) crDroid 12.5
 **Root required** (Magisk)
 
----
-
-not responsible for damage from misuse 
+--- 
