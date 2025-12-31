@@ -1,0 +1,6 @@
+vendor.audio.feature.voip.vendor.enable=true
+vendor.audio.feature.smooth.vendor.enable=true
+debug.stagefright.audio.smoothness=true
+debug.usf.na.enable=true
+debug.sf.usf.enable=true
+persist.vendor.audio_hal.usf.patch=true
